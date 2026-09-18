@@ -60,4 +60,5 @@ Em construção. Fonte LaTeX em `artigo/main.tex`.
 
 ## Autores
 
-Mateus Fonseca — [LinkedIn](https://www.linkedin.com/in/mateus-souza-fonseca/)
+Mateus Fonseca — [LinkedIn](https://www.linkedin.com/in/mateus-souza-fonseca/), [Email](mateusfonseca847@gmail.com)
+Fernando Correia — [LinkedIn](https://www.linkedin.com/in/fernando-grillo-83a304412/)[Email](fcorreiagrillo@gmail.com)
